@@ -2,6 +2,9 @@
 
 ![Machine Learning flow](MlSteps.png)
 
+![](T.jpg)
+![](C.jpg)
+
 ![](ML.png)
 
 ![](gra.jpg)
